@@ -28,6 +28,7 @@ public class ArmstrongNumber {
 		if(result == number) {
 			System.out.println(number+"armstrong Number");
 			System.out.println("armstrong Number")
+				System.out.println("success Number")
 		}
 		else
 		{
